@@ -1,0 +1,24 @@
+.wp-block {
+	max-width: 980px;
+}
+
+.edit-post-layout__metaboxes {
+	border-top: 1px solid #cecece;
+	/* background-image: linear-gradient(156deg, #f0f0f0 16.67%, #ebebeb 16.67%, #ebebeb 50%, #f0f0f0 50%, #f0f0f0 66.67%, #ebebeb 66.67%, #ebebeb 100%);
+	background-size: 59.01px 26.27px; */
+	background: #F0F0F0;
+}
+
+.edit-post-layout__metaboxes .edit-post-meta-boxes-area .postbox {
+	margin-top: 15px;
+	margin-bottom: 10px;
+	/* border-radius: 4px; */
+	border: 1px solid #cecece;
+	box-shadow: 0 1px 6px -3px rgba(0,0,8,.4);
+}
+
+.edit-post-meta-boxes-area #poststuff .stuffbox>h3, 
+.edit-post-meta-boxes-area #poststuff h2.hndle, 
+.edit-post-meta-boxes-area #poststuff h3.hndle {
+	background: #F7F7F7;
+}
